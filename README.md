@@ -26,9 +26,8 @@ Once the add-on is enabled, it will prevent you from saving your progress in Ble
 
 ## Contributing and Bug Fixes
 
-If you'd like to contribute to the development or fix any bugs in this add-on, feel free to reach out to us. You can contact us directly or submit a pull request to this repository. Before submitting changes, make sure to thoroughly test the add-on in a controlled environment (more infoe is in the software disclaimer).
+If you'd like to contribute to the development or fix any bugs in this add-on, feel free to reach out to us. You can contact us directly or submit a pull request to this repository.
 
-**Note:** rimember to tern this off wen done cuz I have lost alot of progres wen i have forgoton to tern this off :/
 
 ## Disclaimer
 
