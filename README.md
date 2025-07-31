@@ -1,6 +1,5 @@
 # Blender Disable Save Add-on
 
-**Disclaimer:** This add-on disables the ability to save your progress in Blender, for all files that are opened **if you're not careful, you will lose your work in other projects**.
 
 ## Installation
 
@@ -31,4 +30,4 @@ If you'd like to contribute to the development or fix any bugs in this add-on, f
 
 ## Disclaimer
 
-This add-on is provided "as is" and is meant for entertainment purposes only. It should not be used in critical production environments, and users should be aware of the potential consequences and data loss associated with disabling the save functionality in Blender. Just please don't get mad at me if you lose all your work :(
+This add-on is provided "as is" and is meant for entertainment purposes only. This add-on disables the ability to save your progress in Blender, for all files that are opened **if you're not careful, you will lose your work in other projects**. Users should be aware of this potential. Just please don't get mad at me if you lose all your work :(
